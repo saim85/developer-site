@@ -1,0 +1,14 @@
+@media screen and (max-width:768px) {
+.navigation{
+  padding-left: 5px;
+  padding-top: 10px;
+}
+.hero{
+    margin-top:auto;
+}
+.newsletter{
+    /* margin: auto;
+    text-align: center;
+} */
+}
+}

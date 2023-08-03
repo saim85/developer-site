@@ -1,0 +1,28 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@200;400&family=Poppins:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 15px;
+}
+body{
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.navigation{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+.nav-menu .nav-item .nav-link{
+    font-size: 1.2rem;
+    font-weight: lighter;
+    color:#fff;
+}
+.icon i{
+    margin-right: 10px;
+}
